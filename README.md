@@ -1,2 +1,12 @@
 # ai-api-engineering
-A hands-on learning hub for API work as an AI Engineer: REST examples, OpenAI API recipes, agentic-AI experiments, Postman collections, and educational .md notes.
+
+A professional playground and reference for API work in AI engineering — REST APIs, OpenAI and other AI vendor APIs, agentic integrations, Postman collections, and short educational notes.
+
+## Purpose
+Collect small, focused examples and notes while learning how to design, integrate, and test APIs for AI systems.
+
+## Quick start
+```bash
+git clone https://github.com/amr-yasser226/ai-api-engineering.git
+cd ai-api-engineering
+# read examples in /examples and docs in /docs
